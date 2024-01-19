@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\bin\Debug\LoginFrm.dll
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\bin\Debug\LoginFrm.pdb
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\LoginFrm.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\LoginFrm_MarkupCompile.cache
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\LoginFrm_MarkupCompile.lref
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\Themes\Generic.baml
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\LoginFrm.g.resources
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\LoginFrm.Properties.Resources.resources
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\LoginFrm.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\LoginFrm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\LoginFrm.dll
+C:\Users\Administrator\source\repos\stalinmora\saco2023\SacoEtiquetas\LoginFrm\obj\Debug\LoginFrm.pdb
